@@ -8,4 +8,4 @@ Simple! Just move your mouse to move the platform!
 https://antimatter98.github.io/BlockBreakerWebGL/
 
 # Demo: 
-![Farmers Market Finder Demo](BlockBreaker.gif)
+![Block Breaker Demo](BlockBreaker.gif)
