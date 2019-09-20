@@ -6,3 +6,6 @@ Simple! Just move your mouse to move the platform!
 
 # Try the game:
 https://antimatter98.github.io/BlockBreakerWebGL/
+
+# Demo: 
+![Farmers Market Finder Demo](BlockBreaker.gif)
